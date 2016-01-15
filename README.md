@@ -65,8 +65,8 @@ fir.im            | http://fir.im/
 # android resource
 
 名称                  | 介绍                       | 网站
-----------------------|---------------------------------------------------
-阳和移动开发          |  | http://www.mobile-open.com/
+----------------------|----------------------------|----------------------
+阳和移动开发          |                            | http://www.mobile-open.com/
 android-dev-bookmarks | Android 开发者的浏览器书签 | http://adb.rocko.xyz/
 
 # android study
