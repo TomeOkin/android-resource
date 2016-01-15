@@ -1,21 +1,21 @@
 # 国内blog
 
-昵称               | 介绍                         | 博客
--------------------|------------------------------|---------------------------
-何红辉 Mr.Simple   | 开发技术前线、《Android源码设计模式解析与实战》、目前就职于友盟 | http://blog.csdn.net/bboyfeiyu <br/> https://github.com/bboyfeiyu <br/> http://www.zhihu.com/people/mrsimple
-大头鬼Bruce        |                              | http://blog.csdn.net/lzyzsd <br/> https://github.com/lzyzsd
-老罗的Android之旅  |                              | http://blog.csdn.net/Luoshengyang
-邓凡平             |                              | http://blog.csdn.net/innost
-郭霖               |                              | http://blog.csdn.net/guolin_blog
-张鸿洋             |                              | http://blog.csdn.net/lmj623565791 <br/> https://github.com/hongyangAndroid
-CoderRobin's Blog  |                              | http://coderrobin.com/
-AigeStudio         |                              | http://blog.csdn.net/aigestudio
-Trinea             |                              | http://www.trinea.cn/ <br/> https://github.com/trinea
-stormzhang         |                              | http://stormzhang.com/
-夏安明             |                              | http://blog.csdn.net/xiaanming/
-任玉刚             |                              | http://blog.csdn.net/singwhatiwanna <br/> https://github.com/singwhatiwanna
-胡凯               |                              | http://hukai.me/
-Drakeet            |                              | http://drakeet.me/
+昵称               | 介绍                                                                                                                        | 博客
+-------------------|-----------------------------------------------------------------------------------------------------------------------------|---------------------------
+何红辉 Mr.Simple   | 开发技术前线、《Android源码设计模式解析与实战》、目前就职于友盟                                                             | http://blog.csdn.net/bboyfeiyu <br/> https://github.com/bboyfeiyu <br/> http://www.zhihu.com/people/mrsimple
+大头鬼Bruce        | RxJava教父、目前就职于阿里巴巴集团，曾就职于小马购车、大众点评，毕业于山东大学                                              | http://blog.csdn.net/lzyzsd <br/> https://github.com/lzyzsd <br/> https://www.zhihu.com/people/bruce-sh
+罗升阳             | 《Android系统源代码情景分析》、老罗的Android之旅                                                                            | http://blog.csdn.net/Luoshengyang 
+邓凡平 @阿拉神农   | Tieto - 高级程序员                                                                                                          | http://blog.csdn.net/innost <br/> http://my.oschina.net/innost
+郭霖               | 《第一行代码》                                                                                                              | http://blog.csdn.net/guolin_blog
+张鸿洋             | 慕课讲师                                                                                                                    | http://blog.csdn.net/lmj623565791 <br/> https://github.com/hongyangAndroid <br/> http://www.imooc.com/space/teacher/id/320852
+CoderRobin's Blog  | 就职于CVTE                                                                                                                  | http://coderrobin.com/
+AigeStudio         |                                                                                                                             | http://blog.csdn.net/aigestudio
+Trinea             | android-open-project、codekk、android-cn。2009 年加入阿里巴巴，开始工具开发和性能优化工作。目前在杭州快的担任移动端架构师。 | http://www.trinea.cn/ <br/> https://github.com/trinea
+stormzhang         | 上海薄荷信息科技有限公司 开发主管                                                                                           | http://stormzhang.com/ <br/> https://github.com/stormzhang
+夏安明             |                                                                                                                             | http://blog.csdn.net/xiaanming/
+任玉刚             |                                                                                                                             | http://blog.csdn.net/singwhatiwanna <br/> https://github.com/singwhatiwanna
+胡凯               |                                                                                                                             | http://hukai.me/
+Drakeet            |                                                                                                                             | http://drakeet.me/
 张兴业             |                              | http://blog.csdn.net/xyz_lmn
 代码家             |                              | http://daimajia.com/ <br/> https://github.com/daimajia
 卢涛南 djyde       |                              | http://djyde.github.io/ <br/> http://www.proginn.com/wo/10042 <br/> https://github.com/djyde
@@ -64,9 +64,15 @@ fir.im            | http://fir.im/
 
 # android resource
 
+名称                  | 介绍                       | 网站
+----------------------|---------------------------------------------------
+阳和移动开发          |  | http://www.mobile-open.com/
+android-dev-bookmarks | Android 开发者的浏览器书签 | http://adb.rocko.xyz/
+
+# android study
 名称              | 网站
 ------------------|-------------------
-阳和移动开发      | http://www.mobile-open.com/
+开发技术前线      | http://www.devtf.cn/ <br/> http://zhuanlan.zhihu.com/tech-frontier
 
 # 其他推荐
 
