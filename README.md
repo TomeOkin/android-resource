@@ -18,7 +18,7 @@
 
 ### 国内开发者
 
-**何红辉 Mr.Simple** 开发技术前线、《Android源码设计模式解析与实战》、目前就职于友盟。
+**何红辉 Mr.Simple** 开发技术前线、《Android源码设计模式解析与实战》、目前就职于友盟。    
 http://blog.csdn.net/bboyfeiyu <br/> https://github.com/bboyfeiyu <br/> http://www.zhihu.com/people/mrsimple
 
 **大头鬼Bruce** RxJava教父、目前就职于阿里巴巴集团，曾就职于小马购车、大众点评，毕业于山东大学。    
@@ -63,7 +63,7 @@ http://drakeet.me/ <br/> https://github.com/drakeet <br/> http://stackoverflow.c
 **张兴业**    
 http://blog.csdn.net/xyz_lmn
 
-**代码家**    EverMemo、小熊词典、AnimeTaste、干货集中营、稀土掘金
+**代码家**    EverMemo、小熊词典、AnimeTaste、干货集中营、稀土掘金    
 http://daimajia.com/ <br/> https://github.com/daimajia
 
 **卢涛南 djyde**    
