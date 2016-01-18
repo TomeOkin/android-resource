@@ -29,13 +29,15 @@ kymjs张涛          |                                                          
 高爷               |                                                                                                                                              | http://www.jianshu.com/users/FK4sc4/latest_articles <br/> http://www.androidperformance.com/ <br/> https://github.com/Gracker
 程序亦非猿         |                                                                                                                                              | http://yifeiyuan.me/
 廖祜秋             |                                                                                                                                              | http://liaohuqiu.com/ <br/> https://github.com/liaohuqiu
-阳春面             |                                                                                                                                              | https://aswifter.com/ <br/> http://www.jianshu.com/users/nqobaq/latest_articles
+阳春面             |                                                                                                                                              | https://aswifter.com/ <br/> http://www.jianshu.com/users/nqobaq/latest_articles <br/> https://github.com/chenyangcun
 赵凯强             |                                                                                                                                              | http://blog.csdn.net/zhaokaiqiang1992 <br/> https://github.com/ZhaoKaiQiang
 工匠若水           |                                                                                                                                              | http://blog.csdn.net/yanbober
 贾吉鑫 @寒江不钓   |                                                                                                                                              | http://jiajixin.cn/ <br/> https://github.com/jasonross
 魏祝林             |                                                                                                                                              | http://blog.csdn.net/android_tutor
 HalZhang           |                                                                                                                                              | https://github.com/halzhang <br/> http://www.cnblogs.com/halzhang
 李鲁leo 傲慢的上校 |                                                                                                                                              | http://blog.csdn.net/lilu_leo
+lightSky           | 大众点评、Awesome-MaterialDesign                                                                                                             | http://www.lightskystreet.com/ <br/> https://github.com/lightSky
+码农明明桑         |                                                                                                                                              | http://my.oschina.net/sammy1990 <br/> http://blog.isming.me/
 
 # 国外blog
 
@@ -62,17 +64,41 @@ android-jobs      | http://j.codekk.com/ <br/> https://github.com/android-cn/and
 ------------------|--------------------
 fir.im            | http://fir.im/
 
-# android resource
+# android open source
 
-名称                  | 介绍                       | 网站
-----------------------|----------------------------|----------------------
-阳和移动开发          |                            | http://www.mobile-open.com/
+名称                            | 网站
+--------------------------------|----------------------
+阳和移动开发                    | http://www.mobile-open.com/
+Android Arsenal                 | http://android-arsenal.com/
+codeKK                          | http://p.codekk.com/
+Appance                         | http://www.appance.com/category/android/
+Android Gems                    | http://android-gems.com/category
+Android Libraries and Resources | http://alamkanak.github.io/android-libraries-and-resources/
+安卓巴士                        | http://www.apkbus.com/plugin.php?id=codesrc&modo=all&page=1
+android-open-project            | https://github.com/Trinea/android-open-project
+awesome-android-ui              | https://github.com/wasabeef/awesome-android-ui
+awesome-android-libraries       | https://github.com/wasabeef/awesome-android-libraries
+JStumpp/awesome-android         | https://github.com/JStumpp/awesome-android
+snowdream/awesome-android       | https://github.com/snowdream/awesome-android
+23CODE                          | http://www.23code.com/
+开源代码 - 泡在网上的日子       | http://www.jcodecraeer.com/plus/list.php?tid=31
+JavaApk                         | http://www.javaapk.com/
+
+# android 资源集
+
 android-dev-bookmarks | Android 开发者的浏览器书签 | http://adb.rocko.xyz/
 
 # android study
+
 名称              | 网站
 ------------------|-------------------
 开发技术前线      | http://www.devtf.cn/ <br/> http://zhuanlan.zhihu.com/tech-frontier
+
+# android icon
+
+名称              | 网站
+------------------|-------------------
+
 
 # 其他推荐
 
