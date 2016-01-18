@@ -3,15 +3,15 @@
 *项目结构可能会有变动。*
 
 - [blog](#blog)
--- [国内blog](#国内blog)
--- [国外blog](#国外blog)
+ - [国内blog](#国内blog)
+ - [国外blog](#国外blog)
 - [国内group](国内group)
 - [求职招聘](#求职招聘)
 - [开发者服务](#开发者服务)
-- [android open source](#android-open-source)
+- [android open source](#android open source)
 - [android 资源集](#android-资源集)
-- [android study](#android-study)
-- [android icon](#android-icon)
+- [android study](#android study)
+- [android icon](#android icon)
 - [其他推荐](#其他推荐)
 
 ## blog
