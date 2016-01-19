@@ -1,6 +1,6 @@
 # Android Resource
 
-*项目结构可能会有变动。*
+*repo 接下去可能会deprecated，目前还会维护一段时间。*
 
 - [Newsletter](#Newsletter)
 - [github group](#github-group)
@@ -130,3 +130,5 @@ http://wiki.jikexueyuan.com/project/material-design/
 
 **AndroidDevTools**    
 http://www.androiddevtools.cn/ <br/> https://github.com/inferjay/AndroidDevTools
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">知识共享署名 4.0 国际许可协议</a>进行许可。
